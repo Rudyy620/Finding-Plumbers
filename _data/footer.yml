@@ -1,23 +1,23 @@
 - links:
-  - name: Pricing
+  - name: Basement
     link: /pricing/
-  - name: Blog
+  - name: Doors
     link: /blog/
-  - name: About
+  - name: Fencing
     link: /about/
-  - name: Contact
+  - name: HVAC
     link: /contact/
 - links:
-  - name: Login
+  - name: Locksmith
     link: /
     new_window: true
-  - name: Sign Up
+  - name: Roofing
     link: /
     new_window: true
-  - name: Docs
+  - name: Tree Service
     link: /
     new_window: true
-  - name: Status
+  - name: Plumbing
     link: /
     new_window: true
 - links:
