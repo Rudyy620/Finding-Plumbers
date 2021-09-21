@@ -1,9 +1,4 @@
-- name: Rates
-  link: /rates/
-  new_window: false
-  highlight: false
-- name: Blog
-  link: /blog/
+
   new_window: false
   highlight: false
 - name: Services
@@ -17,6 +12,6 @@
   new_window: true
   highlight: false
 - name: Find Home Pros Nearby
-  link: /
+  link:tel:844-423-0056 /
   new_window: true
   highlight: true
