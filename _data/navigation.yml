@@ -1,4 +1,4 @@
-- name: Pricing
+- name: Rates
   link: /pricing/
   new_window: false
   highlight: false
@@ -6,7 +6,7 @@
   link: /blog/
   new_window: false
   highlight: false
-- name: About
+- name: Services
   link: /about/
   new_window: false
   highlight: false
