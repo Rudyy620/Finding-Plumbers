@@ -1,5 +1,5 @@
 - name: Rates
-  link: /pricing/
+  link: /rates/
   new_window: false
   highlight: false
 - name: Blog
@@ -7,15 +7,13 @@
   new_window: false
   highlight: false
 - name: Services
-  link: /about/
+  link: /services/
   new_window: false
   highlight: false
 - name: Contact
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /
   new_window: true
   highlight: false
 - name: Sign Up
